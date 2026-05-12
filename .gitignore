@@ -1,0 +1,29 @@
+# Environment
+.env
+*.env
+
+# Database
+data/
+*.db
+*.sqlite
+
+# Logs
+*.log
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
